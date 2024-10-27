@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=D0 Pin=8-7
+Removed Pin From Net: NetName=RX Pin=8-34
+Removed Pin From Net: NetName=TX Pin=8-35
+Removed Pin From Net: NetName=3.3V Pin=JP1-1
+Removed Pin From Net: NetName=GND Pin=JP1-2
+Removed Pin From Net: NetName=D0 Pin=JP1-3
+Removed Pin From Net: NetName=PEN Pin=JP2-3
+Removed Member From Class: ClassName=Key Member=JP1
+Added Component: Designator=H1(XH2.54M-3)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX Pin=8-27
+Added Pin To Net: NetName=TX Pin=8-28
+Added Pin To Net: NetName=D0 Pin=8-37
+Added Pin To Net: NetName=3.3V Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=D0 Pin=H1-3
+Added Member To Class: ClassName=Key Member=Component H1 Header 3P 2.54 Duc Thang

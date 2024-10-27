@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=G18 Pin=12-2
+Removed Pin From Net: NetName=G19 Pin=13-2
+Removed Member From Class: ClassName=Key Member=12
+Removed Member From Class: ClassName=Key Member=13
+Added Component: Designator=R7(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 220R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 220R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G18 Pin=R7-1
+Added Pin To Net: NetName=G19 Pin=R8-1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=R8-2
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL5_3 Pin=L5-3
+Added Pin To Net: NetName=NetL5_3 Pin=R7-2
+Added Net: Name=NetL5_3
+Added Member To Class: ClassName=Key Member=Component R7 1k
+Added Member To Class: ClassName=Key Member=Component R8 1k
