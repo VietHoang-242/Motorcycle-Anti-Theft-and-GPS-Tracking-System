@@ -10,6 +10,8 @@ This is a project about the ESP32 microcontroller, control and location monitori
 Knowledge used in the project:
 - Use UART protocol to communicate with Quectel EG800K by AT command.
 - Use ESP-NOW protocol.
+- Database use is Google Firebase.
+- Frontend use is ReactJS framework.
 
 ## Result
 - 3D shape of the positioning and anti-theft PCB layer.
