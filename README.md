@@ -5,7 +5,7 @@
 This is a project about the ESP32 microcontroller, control and location monitoring system for motorcycles.
 - Remote locking/unlocking system using ESP-NOW protocol between two ESP32 modules.
 - Real-time theft detection via vibration sensor (SW420) and buzzer alarm.
-- Location tracking using Quectel EG800K GPS module and 4G network communication. GPS data upload to Firebase Realtime Database via HTTP and SMS
+- Location tracking using Quectel EG800K GPS module and 4G network communication. GPS data upload to Firebase Realtime Database via HTTP and SMS.
 - ReactJS-based web interface for viewing real-time location and tracking history on maps.
 Knowledge used in the project:
 - Use UART protocol to communicate with Quectel EG800K by AT command.
